@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Design meets code">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#2A3038"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="220" rx="16" fill="#0E1116"/>
+  <rect width="900" height="220" rx="16" fill="url(#dots)"/>
+  <rect x="210" y="58" width="480" height="92" fill="none" stroke="#FFB52E" stroke-width="1.5"/>
+  <g fill="#FFFFFF" stroke="#FFB52E" stroke-width="1.5">
+    <rect x="206" y="54" width="8" height="8"/>
+    <rect x="686" y="54" width="8" height="8"/>
+    <rect x="206" y="146" width="8" height="8"/>
+    <rect x="686" y="146" width="8" height="8"/>
+  </g>
+  <text x="450" y="119" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#F5F5F5">design meets code</text>
+  <rect x="405" y="162" width="90" height="22" rx="4" fill="#FFB52E"/>
+  <text x="450" y="177" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#0E1116">Hug × Hug</text>
+  <path d="M732 128 L732 156 L739 149 L745 162 L751 159 L745 147 L755 147 Z" fill="#FFB52E" stroke="#0E1116" stroke-width="1.5"/>
+  <rect x="752" y="162" width="38" height="22" rx="6" fill="#FFB52E"/>
+  <text x="771" y="177" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#0E1116">pip</text>
+</svg>
