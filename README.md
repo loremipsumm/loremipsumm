@@ -1,13 +1,12 @@
 ![Design meets code](banner.svg)
 
-# Hi there 👋
+## Product Designer
 
-Product designer who also writes code. I turn complex requirements into clear flows, design systems, and usable interfaces, and I build side projects to solve my own everyday problems.
+- Product design: user flows, wireframes, prototypes
+- Design systems in Figma
+- UX research and usability testing
+- Side projects in C# and Python
 
-## Tools I use
+## Tools
 
-**Design:** Figma, FigJam, Adobe XD, Photoshop, Illustrator
-
-**Product & AI:** Jira, Miro, Claude
-
-**Code:** TypeScript, Python, C#
+Figma · FigJam · Adobe XD · Photoshop · Illustrator · Jira · Miro · Claude
