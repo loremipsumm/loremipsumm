@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**loremipsumm/loremipsumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product designer who also writes code. I turn complex requirements into clear flows, design systems, and usable interfaces, and I build side projects to solve my own everyday problems.
 
-Here are some ideas to get you started:
+## Things I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Floatify](https://github.com/loremipsumm/Floatify) | Floating synced-lyrics overlay for the Spotify desktop app on Windows, with a liquid glass design | C#, WPF, .NET 10 |
+| [iPad Extend Monitor](https://github.com/loremipsumm/ipad-extend-monitor) | Turns an iPad into a wireless second monitor for Windows, with touch, Apple Pencil, audio, clipboard sync, and webcam support | Python |
+
+## Tools
+
+**Design:** Figma, FigJam, Adobe XD, Photoshop, Illustrator
+
+**Product:** Jira, Miro, Claude
+
+**Code:** TypeScript, Python, C#
