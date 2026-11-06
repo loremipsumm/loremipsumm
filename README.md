@@ -6,6 +6,6 @@ Product designer who also writes code. I turn complex requirements into clear fl
 
 **Design:** Figma, FigJam, Adobe XD, Photoshop, Illustrator
 
-**Product:** Jira, Miro, Claude
+**Product & AI:** Jira, Miro, Claude
 
 **Code:** TypeScript, Python, C#
